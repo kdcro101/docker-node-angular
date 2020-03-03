@@ -1,0 +1,5 @@
+#!/bin/bash
+source /root/.bashrc
+sudo /usr/sbin/sshd
+sleep infinity
+
